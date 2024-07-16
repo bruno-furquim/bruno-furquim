@@ -35,3 +35,7 @@ I am a dedicated QA Software Engineer driven by a strong enthusiasm for learning
 ---
 [![](https://visitcount.itsvg.in/api?id=bruno-furquim&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+![snake animation](https://github.com/bruno-furquim/bruno-furquim/blob/output/github-contribution-grid-snake2.svg)
+
