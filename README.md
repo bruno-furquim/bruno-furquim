@@ -1,8 +1,8 @@
 # 💫About Me:
 I am a dedicated QA Software Engineer driven by a strong enthusiasm for learning and implementing cutting-edge technologies in the projects I am involved with.
 
-- 🔭 I’m currently working on Dock - Spread Financial Power
-- 🌱 I’m currently learning Cypress, JS and TS.
+- 🔭 I’m currently working on Invillia at Pagbank.
+- 🌱 I’m currently learning Java, Appium and Selenium.
 
 # 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brunofurquim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-furquim/) 
