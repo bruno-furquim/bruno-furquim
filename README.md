@@ -1,7 +1,7 @@
 # 💫About Me:
 I am a dedicated QA Software Engineer driven by a strong enthusiasm for learning and implementing cutting-edge technologies in the projects I am involved with.
 
-- 🔭 I’m currently working on Invillia at Pagbank.
+- 🔭 I’m currently working on Aarin.
 - 🌱 I’m currently learning Java, Appium and Selenium.
 
 # 🌐Socials:
