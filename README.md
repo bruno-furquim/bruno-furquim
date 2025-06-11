@@ -2,7 +2,7 @@
 I am a dedicated QA Software Engineer driven by a strong enthusiasm for learning and implementing cutting-edge technologies in the projects I am involved with.
 
 - 🔭 I’m currently working on Aarin.
-- 🌱 I’m currently learning Javascript, K6 and API Test Automation.
+- 🌱 I’m currently learning Typescript, Playwright, K6 and API Test Automation.
 
 # 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brunofurquim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-furquim/) 
